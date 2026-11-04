@@ -1,0 +1,7 @@
+Homepage structure: The Vue 3 application is mounted from src/main.js. App.vue composes reusable components for the header, hero, about, sport, quote, project experience, contact form, and footer.
+
+Styling: Tailwind CSS 4 is integrated with the official Vite plugin. styles.css contains the Tailwind import, shared design tokens for light and dark themes, base typography, and reduced-motion behavior; component layouts use responsive Tailwind utilities.
+
+Interactions: Vue Composition API state and event handlers manage the color theme, active navigation section, mobile menu, rotating principles, project carousel, contact form validation, and current footer year.
+
+Assets: Images remain at their original external URLs. No local image, icon, or font assets were present in the original project.
