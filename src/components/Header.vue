@@ -25,7 +25,7 @@ const links = [
       @keydown.esc="menuOpen = false"
     >
       <a class="text-lg font-extrabold tracking-[-0.06em]" href="#home">
-        NAM PHAM<span class="text-accent">.</span>
+        Onwardly<span class="text-accent">.</span>
       </a>
       <div class="hidden items-center gap-8 text-sm font-medium text-muted md:flex">
         <a
